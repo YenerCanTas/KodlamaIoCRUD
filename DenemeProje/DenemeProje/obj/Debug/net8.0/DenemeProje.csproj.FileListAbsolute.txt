@@ -1,0 +1,14 @@
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\DenemeProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\DenemeProje.AssemblyInfoInputs.cache
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\DenemeProje.AssemblyInfo.cs
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\DenemeProje.csproj.CoreCompileInputs.cache
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\DenemeProje.exe
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\DenemeProje.deps.json
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\DenemeProje.runtimeconfig.json
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\DenemeProje.dll
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\DenemeProje.pdb
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\DenemeProje.dll
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\refint\DenemeProje.dll
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\DenemeProje.pdb
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\DenemeProje.genruntimeconfig.cache
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\ref\DenemeProje.dll

@@ -1,0 +1,14 @@
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\KodlamaIoCRUD.exe
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\KodlamaIoCRUD.deps.json
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\KodlamaIoCRUD.runtimeconfig.json
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\KodlamaIoCRUD.dll
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\bin\Debug\net8.0\KodlamaIoCRUD.pdb
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\KodlamaIoCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\KodlamaIoCRUD.AssemblyInfoInputs.cache
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\KodlamaIoCRUD.AssemblyInfo.cs
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\KodlamaIoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\KodlamaIoCRUD.dll
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\refint\KodlamaIoCRUD.dll
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\KodlamaIoCRUD.pdb
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\KodlamaIoCRUD.genruntimeconfig.cache
+C:\Users\yener\source\repos\DenemeProje\DenemeProje\obj\Debug\net8.0\ref\KodlamaIoCRUD.dll

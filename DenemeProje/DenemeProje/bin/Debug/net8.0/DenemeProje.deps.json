@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DenemeProje/1.0.0": {
+        "runtime": {
+          "DenemeProje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DenemeProje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
